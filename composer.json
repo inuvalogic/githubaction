@@ -1,0 +1,15 @@
+{
+    "name": "wisnuhafid/githubaction",
+    "autoload": {
+        "psr-4": {
+            "Wisnuhafid\\Githubaction\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wisnu Hafid",
+            "email": "wisnuhafid@gmail.com"
+        }
+    ],
+    "require": {}
+}
